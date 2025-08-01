@@ -275,17 +275,3 @@ ensemble = DPATEnsemble(
 )
 ```
 
-## Citation
-
-If you use this code, please cite:
-```bibtex
-@article{dpat2025,
-  title={DPAT: Dual-Path Alignment \& Transformer for miRNA Target Prediction},
-  author={shanruoxu},
-  year={2025}
-}
-```
-
-## Contact
-
-For questions, please contact: xushanruo@gmail.com 
